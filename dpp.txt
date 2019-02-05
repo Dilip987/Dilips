@@ -1,2 +1,6 @@
 dilip is doing some exp
+<<<<<<< HEAD
 created changes by bugfix
+=======
+created changes by exp
+>>>>>>> exp
