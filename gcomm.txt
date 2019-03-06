@@ -14,6 +14,7 @@ git reset -p
 git diff
 git diff --staged
 git diff hash1 hash2
+git branch new_branch_name
 git checkout -b new_branch_name
 git checkout -b new_branch_name hash(create branch from a specific commit)
 git checkout branch
